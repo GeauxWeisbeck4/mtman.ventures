@@ -12,10 +12,10 @@
   --fw-700: 700;
   --fw-900: 900;
 
-  --clr-primary-200: hsla(169, 70%, 95%, 1);
-  --clr-primary-300: hsla(169, 100%, 39%, 1);
-  --clr-primary-400: hsla(169, 100%, 26%, 1);
-  --clr-primary-500: hsla(169, 100%, 16%, 1);
+  --clr-primary-200: #FAF3D4;
+  --clr-primary-300: #A9DAC3;
+  --clr-primary-400: #179E37;
+  --clr-primary-500: #405510;
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
@@ -89,6 +89,7 @@ img,
 picture {
   max-width: 100%;
   display: block;
+  border-radius: 10px;
 }
 
 /* Inherit fonts for inputs and buttons */
@@ -123,6 +124,7 @@ body {
   font-family: var(--ff-body);
   font-size: var(--fs-400);
   color: var(--clr-neutral-900);
+  background-color: var(--clr-primary-200);
 }
 
 h1,
@@ -152,7 +154,7 @@ section,
    and add margin to the top for proper
    spacing */
 
-.flow > *:where(:not(:first-child)) {
+.flow>*:where(:not(:first-child)) {
   margin-top: var(--flow-spacer, 1em);
 }
 
@@ -221,6 +223,13 @@ section,
   text-decoration: underline;
 }
 
+.mtmanlogo {
+  height: 300x;
+  width: 150px;
+  border: none;
+  display: inline-flex;
+}
+
 /* //////////////////////
   Footer
   /////////////////////// */
@@ -237,7 +246,7 @@ section,
   Homepage
   /////////////////////// */
 
-.hero > div {
+.hero>div {
   display: grid;
   grid-auto-flow: row;
   grid-auto-columns: 1fr;
@@ -252,7 +261,7 @@ section,
 }
 
 @media (min-width: 45em) {
-  .hero > div {
+  .hero>div {
     grid-auto-flow: column;
   }
 }
@@ -270,15 +279,15 @@ section,
   Individual article page
   /////////////////////// */
 
-  .main-article {
-    margin-bottom: 3rem;
-  }
+.main-article {
+  margin-bottom: 3rem;
+}
 
-  .main-article__figure figcaption {
-    margin: 1rem 0;
-    font-size: var(--fs-300);
-    opacity: .9;
-  }
+.main-article__figure figcaption {
+  margin: 1rem 0;
+  font-size: var(--fs-300);
+  opacity: .9;
+}
 
 /* //////////////////////
   Article snippets
@@ -301,9 +310,11 @@ section,
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
 .snippet__title {
   grid-area: title;
 }
+
 .snippet__meta {
   grid-area: meta;
   color: var(--clr-neutral-300);
@@ -330,7 +341,7 @@ section,
 .snippet__title a:hover,
 .snippet__title a:focus {
   color: var(--clr-primary-500);
-} 
+}
 
 @media (min-width: 45em) {
   .snippet {
@@ -367,10 +378,11 @@ section,
   font-weight: var(--fw-700);
   border: 2px solid var(--clr-primary-400);
 }
+
 .btn--primary:hover,
 .btn--primary:focus {
   background: var(--clr-primary-500);
-  border-color: var(--clr-primary-500); 
+  border-color: var(--clr-primary-500);
 }
 
 .btn--neutral {
