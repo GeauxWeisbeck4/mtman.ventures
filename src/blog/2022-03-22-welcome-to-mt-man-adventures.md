@@ -19,8 +19,18 @@ But Montana will always be my home and I learned a tough way to get through life
 
 ![ski whooville](/assets/blog/skiwhooville.jpeg "Wouldn't that little who town be your dream?")
 
-###  What if that was real?
+### What if that was real?
 
 But there are places that exist just like this! Check out this real life Whoville mountain town:
 
 ![the real life whooville](/assets/blog/realwhoville.webp "Yes, this must be that town I always imagined. ")
+
+Yes, there are places on this earth where people live rugged, wild and free all the time. There is also beauty more immense than you can even imagine. It just takes your own adventure to discover it. The stories we tell about how we see things in nature or in everyday life that are so beautiful make us want to preserve them more to the best of our ability.
+
+### Take part in the Wild West tradition
+
+It doesn't even have to be an adventure from the west - if you took an adventure out in New York with your Patagonia and Chacos to get a hoagie and then walk around Central Park, share some photos and tell us about your journey. You can email your stories to mtmanadventuresblog@gmail.com and tell us about any wild experiences, fun times, or sheer moments of blissful quiet and beauty. 
+
+We also sell apparel and let you tell us which designs you like best by giving us feedback in our community! As of writing this blog, I am getting my first products up and still working on more website features. But I promise you that before long, you won't recognize the page if you are reading this around the time this was posted. 
+
+Keep up to date with our happenings and we look forward to creating awesome adventure experiences!
