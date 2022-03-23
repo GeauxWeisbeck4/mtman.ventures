@@ -12,7 +12,7 @@ imageAlt: YAY! We did it!
 ---
 # The Blog is Now Officially Live!
 
-I know your wondering why the 6th post is announcing the opening of the blog when there were five other posts written before this one. Well those were posts created in the development phase of the website and need to be edited - maybe they already are now, but we are excited because the blog is completely live!
+I know you're wondering why the 6th post is announcing that the blog works when there were five other posts written before this one. Well those were posts created in the development phase of the website and need to be edited - maybe they already are now, but we are excited because the blog is completely live!
 
 Send your adventure story or article to [mtmanadventuresblog@gmail.com](mtmanadventuresblog@gmail.com) and we'll review it and most likely post your wild post! We are still developing many aspects of the site which will be available in the coming days. This includes things like sick t-shirts, beanies, and other outdoor gear that you will have to wait to see!
 
