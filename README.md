@@ -1,14 +1,10 @@
-# JAMStack personal blog starter files - Full Stack March Madness 2022 
+# mtman.ventures Jamstack Blog (eCommerce and more coming)
 
-This is the first project that I have completed for the MEANStack Developer Newsletter's Full Stack March Madness 2022, where various tech stacks are compared against eachother to determine a champion of the Full Stacks! I thought it would be a fun way for me to learn more about each tech stack and teach my readers more.
+I went through the same Jamstack project I did the first time to make: https://mtman.ventures which is a General Store and Blog. 
 
-This project was really fun and ended up splitting into a few ways. This project site has ended up being the starter for my MT Man Adventures business and you can view it here: https://mtman.ventures which is a General Store and Blog. That will be migrated and this will be turrned to the Jamstack March Madness project.
+I wasn't sure exactly what I was going to use the blog for and then the idea kind of came out of nowhere. I'm planning out a small eCommerce adventure and another fun blog to keep up. 
 
-I also am going to build a starter template from this prjoct for 11ty. It is always cool to have the starter files that make it easy for anyone to jump on and create a website quickly. 
-
-##There is more to come from this project
-
-I am busy trying to find work and such that I don't have a lot of time to spend cleaning up the file with documentation and tutorials yet, but I will slowly update those as much as I can. For now, I hope you can enjoy the beautiful simplicity of this website!
+Stay Tuned
 
 
 ##Sources
